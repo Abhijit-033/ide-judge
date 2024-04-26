@@ -1,1 +1,1 @@
-# codeplat-ide
+# IDE for coding platform
